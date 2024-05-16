@@ -5,6 +5,11 @@
 body{
     font-family: "Poppins", sans-serif;
 }
+footer{
+    background-color: black;
+    padding: 15px 0;
+    text-align: center;
+}
 .cabecalho{
     background-color: #383D58;
     color:white;
@@ -64,4 +69,22 @@ body{
 .ShawMendes{
     text-decoration: overline;
 }
-
+.OliviaRodrigo{
+    text-decoration: overline;
+}
+.TheWeeknd{
+    text-decoration: overline;
+}
+.TaylorSwift{
+    text-decoration: overline;
+}
+.EdSheeran{
+    text-decoration: overline;
+}
+.LadyGaga{
+    text-decoration: overline;
+}
+.rodape-imagem{
+    width: 24 px;
+    height: 50px; 
+}
